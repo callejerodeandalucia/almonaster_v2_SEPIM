@@ -2,8 +2,8 @@
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
 		id = "es.juntadeandalucia.mapea.sepim.almonaster"
-		versionCode = "132" 
-		version     = "1.3.2" >
+		versionCode = "142" 
+		version     = "1.4.2" >
 
 	<name>Guía de Almonaster la Real</name>
 	<description>
